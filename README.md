@@ -1,1 +1,2 @@
-# hybrid_retrieval_for_computationally_efficient_qa
+# Combining Lexical and Dense Retrieval for Computationally Efficient Multi-hop Question Answering
+Coming soon!
