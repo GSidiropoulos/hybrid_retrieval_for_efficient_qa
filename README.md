@@ -1,6 +1,12 @@
 # Combining Lexical and Dense Retrieval for Computationally Efficient Multi-hop Question Answering
 <p align="center"><img width="80%" src="img/model.png" /></p>
 
+### Download trained models and results.
+Download results.
+```bash
+bash download.sh
+```
+
 ## Citation
 If you find this work helpful or use it in your own work, please cite our paper. 
 ```
